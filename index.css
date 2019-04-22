@@ -72,3 +72,8 @@ header {
   margin: 10px;
   border: 0px solid;
 }
+@media screen and (max-width: 950px) {
+  .input-field {
+    width: 80%;
+  }
+}
